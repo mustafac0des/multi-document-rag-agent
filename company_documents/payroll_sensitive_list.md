@@ -1,76 +1,47 @@
-# Aether Corp Payroll & Compensation
-_STRICTLY CONFIDENTIAL_
-
+---
+title: Payroll Report FY2026
+access_level: sensitive
+allowed_roles: [finance, executive]
+department: finance
+date: 2026_03
 ---
 
-## 1. Executive Compensation
+# Payroll Report FY2026
 
-| Name           | Role | Base  | Bonus | Equity |
-|----------------|------|-------|-------|--------|
-| Daniel Reyes   | CEO  | $320k | 40%   | 3.5%   |
-| Priya Nair     | CTO  | $280k | 35%   | 2.8%   |
-| Marcus Lee     | CFO  | $260k | 30%   | 2.2%   |
+## 1. Overview
 
----
+This document contains comprehensive compensation details for all Aether Corp employees for the 2026 fiscal year. It provides a detailed breakdown of salary bands, individual compensation packages, and overall payroll expenses. This information is critical for financial planning and budgeting purposes.
 
-## 2. Engineering
+## 2. Salary Bands
 
-| Name         | Role                  | Salary |
-|--------------|-----------------------|--------|
-| Sara Ahmed   | Senior ML Engineer    | $180k  |
-| James Wu     | Backend Engineer      | $145k  |
-| Elena Petrova| DevOps Engineer       | $150k  |
+Our standard base salary bands are strictly defined by role. A Junior Engineer can expect a base salary ranging from 60,000 USD to 80,000 USD. A Senior Engineer is compensated between 110,000 USD and 150,000 USD. Staff Engineers receive between 160,000 USD and 200,000 USD. Finally, an Engineering Lead commands a base salary between 180,000 USD and 240,000 USD.
 
----
+## 3. Individual Compensation
 
-## 3. Product & Design
+### Engineering
 
-| Name        | Role               | Salary |
-|-------------|--------------------|--------|
-| Lucas Meyer | Product Manager    | $160k  |
-| Hana Kim    | UX Designer        | $130k  |
+Ali Khan serves as a Senior Engineer and currently receives a base compensation of 135,000 USD per year. Sara Ahmed operates as a Staff Engineer and is compensated at a base rate of 175,000 USD annually.
 
----
+### Finance
 
-## 4. Operations
+Hina Malik leads our financial operations as the Finance Manager and receives an annual base salary of 120,000 USD.
 
-| Name          | Role            | Salary |
-|---------------|-----------------|--------|
-| Omar Siddiqui | HR Manager      | $120k  |
-| Aisha Khan    | Operations Lead | $125k  |
+### HR
 
----
+Usman Tariq manages our human resources functions as the HR Lead and is compensated with a base salary of 105,000 USD per year.
 
-## 5. Compensation Bands
+## 4. Bonuses
 
-| Level | Range        |
-|-------|--------------|
-| L3    | $90k–$120k   |
-| L4    | $120k–$160k  |
-| L5    | $160k–$210k  |
-| L6    | $210k–$280k  |
+Our compensation strategy includes variable bonus structures. Employees are eligible for an annual performance bonus of up to twenty percent of their base salary, dependent on individual and company achievements. We also utilize targeted retention bonuses, which are negotiated and awarded on a strictly case by case basis.
 
----
+## 5. Equity Distribution
 
-## 6. Bonus Structure
+Equity is a core component of our compensation philosophy. Standard engineers receive equity grants ranging from 0.05 percent to 0.2 percent. Engineering and functional leads are granted between 0.2 percent and 0.5 percent. Executive leadership positions are awarded equity stakes of 1 percent or higher.
 
-- Based on:
-  - Company performance (50%)
-  - Team performance (30%)
-  - Individual performance (20%)
+## 6. Payroll Expenses
 
----
+Our current financial modeling indicates significant ongoing payroll expenses. The projected monthly payroll expenditure is approximately 1.8 million USD. When annualized, this represents a total projected annual payroll obligation of roughly 21.6 million USD.
 
-## 7. Equity Details
+## 7. Notes
 
-- Vesting: 4 years
-- Cliff: 1 year
-- Refresh grants annually
-
----
-
-## 8. Notes
-
-- Salaries benchmarked globally
-- Adjustments based on geography
-- Confidentiality strictly enforced
+This document is strictly confidential and represents sensitive financial data. It must not be shared outside of explicitly authorized roles within the finance and executive departments. Unauthorized distribution is grounds for immediate termination.

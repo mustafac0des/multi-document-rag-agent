@@ -1,193 +1,61 @@
-# Aether Corp Employee Handbook
-_Last Updated: April 2026_
-
 ---
+title: Employee Handbook
+access_level: public
+allowed_roles: [guest, engineer, hr, finance, executive]
+department: company_wide
+version: 2.3
+date: 2026_01
+---
+
+# Aether Corp Employee Handbook
 
 ## 1. Welcome to Aether Corp
 
-Welcome to Aether Corp, a global technology company specializing in AI infrastructure, distributed systems, and edge computing platforms.
+Aether Corp is an AI infrastructure company focused on building scalable systems for intelligent applications. Our mission is to empower developers and enterprises to deploy AI reliably at scale. We are thrilled to have you join our team and contribute to this ambitious vision. Your work here will directly impact how the world interacts with and benefits from artificial intelligence.
 
-We build tools that power real-time intelligence at scale—from startups to governments.
+## 2. Company Values
 
----
+### 2.1 Ownership
+Every employee is expected to take full ownership of their work. This means seeing a project through from conception to completion, anticipating potential roadblocks, and taking proactive steps to overcome them. You are empowered to make decisions and are accountable for the outcomes.
 
-## 2. Company Overview
+### 2.2 Speed
+We prioritize rapid iteration and continuous delivery. The AI landscape moves incredibly fast, and our ability to outpace the competition relies on our agility. We value quick decision making and the willingness to ship early and iterate based on real world feedback.
 
-- Founded: 2021  
-- Headquarters: San Francisco, CA  
-- Employees: ~420 globally  
-- Operating Regions: North America, Europe, APAC, MEA  
+### 2.3 Transparency
+Information flows openly unless restricted for legal or strategic reasons. We believe that a well informed team is an empowered team. We share our successes and our failures openly, fostering a culture of trust and collective learning.
 
----
+## 3. Code of Conduct
 
-## 3. Mission & Vision
+All employees are expected to adhere to our code of conduct. You must maintain professionalism in all interactions, both internal and external. We demand that you respect diversity and foster an inclusive environment where everyone feels valued. Furthermore, you must proactively avoid any conflicts of interest that could compromise your judgment or the company's integrity.
 
-### Mission
-To create resilient, intelligent infrastructure that enables humanity to compute without limits.
+## 4. Work Environment
 
-### Vision
-A world where computation is ambient, intelligent, and universally accessible.
+### 4.1 Remote Policy
+Aether Corp operates as a remote first company. We believe that great talent can be found anywhere in the world. Our remote policy is designed to provide you with the flexibility to work from wherever you are most productive.
 
----
+### 4.2 Working Hours
+We offer flexible working hours to accommodate different time zones and personal schedules. However, we require that all teams maintain a four hour overlap during their workday to facilitate synchronous communication and collaboration.
 
-## 4. Core Values
+## 5. Benefits
 
-### 4.1 Ownership
-We act like owners. We take responsibility beyond our job descriptions.
+We provide comprehensive benefits to ensure your well being and professional growth. This includes global health insurance coverage to keep you and your family healthy. We also offer an annual learning stipend of 2000 USD to support your continuous education and skill development. Additionally, you will receive 20 days of paid time off per year to rest and recharge.
 
-### 4.2 Speed with Intent
-We move fast—but not recklessly. Thoughtful execution matters.
+## 6. Security Awareness
 
-### 4.3 Radical Transparency
-We communicate openly, even when it's uncomfortable.
+Security is everyone's responsibility at Aether Corp. You must never share your access credentials with anyone, under any circumstances. You are required to promptly report any suspicious activity or potential security incidents to the appropriate team. Furthermore, you must strictly follow all data classification policies to ensure sensitive information is protected.
 
-### 4.4 Technical Excellence
-We prioritize elegant, scalable, and maintainable systems.
+## 7. Data Classification Overview
 
-### 4.5 Ethical Responsibility
-We actively evaluate the societal impact of our AI systems.
+Our data classification system consists of four primary levels. The Public level is open to all individuals, both inside and outside the company. The Internal level is restricted to Aether Corp employees only. The Sensitive level is strictly limited to authorized members of restricted departments. Finally, the Restricted level contains highly confidential information and is accessible exclusively by the executive team.
 
----
+## 8. Communication Tools
 
-## 5. Employment Structure
-
-- Full-time Employees
-- Contractors
-- Interns (12-week cycles)
-
----
-
-## 6. Work Environment
-
-### 6.1 Hybrid Model
-- Remote-first by default
-- Optional office hubs in 6 cities
-
-### 6.2 Core Hours
-- 11:00 AM – 3:00 PM (team overlap)
-- Remaining hours flexible
-
-### 6.3 Time Zone Policy
-Teams must maintain at least 3 hours of overlap across regions.
-
----
-
-## 7. Compensation & Benefits
-
-### 7.1 Salary
-- Competitive with top quartile of global tech companies
-- Reviewed annually
-
-### 7.2 Equity
-- 4-year vesting schedule
-- 1-year cliff
-- Refresh grants based on performance
-
-### 7.3 Benefits
-- Health, dental, vision
-- Mental health support (therapy coverage)
-- $1,500/year learning stipend
-- $1,000 remote setup allowance
-- Paid parental leave (12–16 weeks)
-
----
-
-## 8. Leave Policy
-
-| Type            | Days |
-|-----------------|------|
-| Annual Leave    | 20   |
-| Sick Leave      | 10   |
-| Personal Leave  | 5    |
-
-Unused leave carries over (max 10 days).
-
----
+We utilize a specific set of tools for our daily operations. Slack is our primary platform for internal, real time communication. We use Notion extensively for all internal documentation and knowledge sharing. For version control and collaborative code development, we rely on GitHub.
 
 ## 9. Performance Reviews
 
-- Biannual reviews (June, December)
-- Based on:
-  - Impact
-  - Collaboration
-  - Technical/role growth
-  - Initiative
+Performance reviews are conducted bi annually to provide structured feedback and support your career progression. These reviews incorporate peer feedback to provide a well rounded perspective on your contributions. Your manager will also provide a comprehensive evaluation of your performance. Finally, you will complete a self assessment to reflect on your own achievements and areas for growth.
 
----
+## 10. Exit Policy
 
-## 10. Promotions
-
-Promotion criteria:
-- Sustained performance at next level
-- Peer and manager endorsement
-- Business need alignment
-
----
-
-## 11. Code of Conduct
-
-### Expected Behavior
-- Respectful communication
-- Inclusion and diversity awareness
-- Accountability
-
-### Prohibited Behavior
-- Harassment
-- Discrimination
-- Data misuse
-- Workplace intimidation
-
-Violations may result in termination.
-
----
-
-## 12. Security & Data Protection
-
-- Mandatory 2FA
-- No credential sharing
-- Use company VPN for sensitive systems
-- Report incidents within 1 hour
-
----
-
-## 13. Communication Tools
-
-| Tool   | Purpose                |
-|--------|------------------------|
-| Slack  | Messaging              |
-| Notion | Documentation          |
-| GitHub | Code repositories      |
-| Jira   | Task tracking          |
-
----
-
-## 14. IT & Equipment
-
-- Company-issued laptops preferred
-- Mandatory disk encryption
-- Auto-lock after 5 minutes idle
-
----
-
-## 15. Conflict of Interest
-
-Employees must disclose:
-- Side businesses
-- Investments in competitors
-- External advisory roles
-
----
-
-## 16. Exit Process
-
-- 2 weeks notice required
-- Knowledge transfer mandatory
-- Access revoked within 24 hours of exit
-
----
-
-## Closing Note
-
-Aether Corp is built by people who care deeply about systems, impact, and the future.
-
-You are now part of that system.
+If you choose to leave Aether Corp, you must follow our structured exit policy. You are required to return all company assets, including laptops and other hardware. All of your access credentials will be immediately revoked. Finally, you must complete a thorough knowledge transfer process to ensure a smooth transition for your team.
